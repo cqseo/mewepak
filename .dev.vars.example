@@ -1,0 +1,6 @@
+# Copy to .dev.vars for local Wrangler Pages development.
+# Keep real secret values out of Git.
+SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_PUBLISHABLE_KEY=sb_publishable_replace_me
+SUPABASE_SERVICE_ROLE_KEY=sb_secret_replace_me
+TURNSTILE_SECRET_KEY=replace_me
